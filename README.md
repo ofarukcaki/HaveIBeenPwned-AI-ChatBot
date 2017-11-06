@@ -19,7 +19,7 @@ Available Platforms:
 + Check password breach
 + Domain name search, if it has a known breach chatbot will return informations about it
 + Language understanding ability.
-+ Self improve itself
++ Self-improve itself
 
 
 ### Example Commands
@@ -37,9 +37,9 @@ Send `Password` to start password pwnage check process
 #### Additional
 
 + This bot using **HaveIBeenPwned.com** APIs
-+ Remember you **don't need to** stick n commands above, since it is a AI bot it will understand what you asking(email search, password, website chack etc.) and reply your question
++ Remember you **don't need to** stick on commands above, since it is a AI bot it will understand what you asking(email search, password, website check etc.) and reply your question
 + Bot may not be understand every way you asking, but it will be learn in time and **improve** itself for new questions(LUIS).
-+ Since this chatbot based on Microsoft's Bot Framework(which is in Preview mode/active development), some functions on different platforms may not be work as **same** or work properly.
++ Since this chatbot based on Microsoft's Bot Framework(which is in Preview mode/active development), some functions on different platforms may not be work as **same** or work properly*.
 
 
 ### Demos
@@ -50,5 +50,5 @@ Send `Password` to start password pwnage check process
 
 | Skype | Telegram | Fb Messenger |
 | ------- | ----- | ------------- |
-|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif)| Fb Messsenger Demo |
+|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif) *Telegram button functions are not workıng properly for now| Fb Messsenger Demo |
 
