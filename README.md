@@ -38,3 +38,7 @@ Send `Password` to start password pwnage check process
 | ------- | ----- |
 |![Cortana](https://i.hizliresim.com/NOLOa5.gif)      |  ![Slack](https://i.hizliresim.com/nJbOpV.gif)|
 
+| Skype | Telegram |
+| ------- | ----- |
+|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram]()|
+
