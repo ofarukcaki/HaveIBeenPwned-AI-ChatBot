@@ -40,5 +40,5 @@ Send `Password` to start password pwnage check process
 
 | Skype | Telegram |
 | ------- | ----- |
-|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram]()|
+|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif)|
 
