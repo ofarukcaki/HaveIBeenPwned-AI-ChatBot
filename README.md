@@ -44,7 +44,7 @@ Send `Password` to start password pwnage check process
 | ------- | ----- |
 |![Cortana](https://i.hizliresim.com/NOLOa5.gif)      |  ![Slack](https://i.hizliresim.com/nJbOpV.gif)|
 
-| Skype | Telegram |
-| ------- | ----- |
-|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif)|
+| Skype | Telegram | Fb Messenger |
+| ------- | ----- | ------------- |
+|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif)| Fb Messsenger Demo |
 
