@@ -34,6 +34,7 @@ Send `Password` to start password pwnage check process
 
 ### Demos
 
-| Cortana | Slack | -------|
-|![Cortana](https://i.hizliresim.com/NOLOa5.gif)      | |
+| Cortana | Slack |
+| ------- | ----- |
+|![Cortana](https://i.hizliresim.com/NOLOa5.gif)      |  slack on the way|
 
