@@ -50,5 +50,5 @@ Send `Password` to start password pwnage check process
 
 | Skype | Telegram | Fb Messenger |
 | ------- | ----- | ------------- |
-|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif) *Telegram button functions are not workıng properly for now| Fb Messsenger Demo |
-
+|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif) | Fb Messsenger Demo |
+*Telegram button functions are not workıng properly for now
