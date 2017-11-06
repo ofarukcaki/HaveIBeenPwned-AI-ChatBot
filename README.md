@@ -32,7 +32,7 @@ Send `Password` to start password pwnage check process
 
 #### Additional
 
-+ This bot using HaveIBeenPwned.com APIs
++ This bot using **HaveIBeenPwned.com** APIs
 + Remember you **don't need to** stick n commands above, since it is a AI bot it will understand what you asking(email search, password, website chack etc.) and reply your question
 + Bot may not be understand every way you asking, but it will be learn in time and **improve** itself for new questions(LUIS).
 + Since this chatbot based on Microsoft's Bot Framework(which is in Preview mode/active development), some functions on different platforms may not be work as **same** or work properly.
