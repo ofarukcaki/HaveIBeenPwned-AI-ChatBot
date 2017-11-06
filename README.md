@@ -10,6 +10,12 @@ Available Platforms:
 ( Cortana may not be available to public until Microsoft complete the approval process)
 
 ---
+### Main Features
++ Check email/username if it's pwned or not
++ Check password breach
++ Domain name search, if it has a known breach chatbot will return informations about it
++ Language understanding ability.
++ Self improve itself
 
 
 ### Example Commands
