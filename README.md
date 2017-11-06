@@ -1,4 +1,4 @@
-I'm working this readme file, I'll update it within a hour.
+I'm working on this readme file, I'll update it within a hour.
 
 
 Fb messenger: https://www.messenger.com/t/257187708141828
