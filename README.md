@@ -5,7 +5,7 @@
 [Deploy Node/SendAttachment]: https://azuredeploy.net
 Available Platforms:
 
-*   [![](https://i.hizliresim.com/bLv94Z.jpg)](https://www.messenger.com/t/257187708141828) <a>- Facebook Messenger -</a> <a>https://www.messenger.com/t/257187708141828</a>
+*   [![](https://i.hizliresim.com/bLv94Z.jpg)](https://www.messenger.com/t/257187708141828) <a>- Facebook Messenger -</a> <a>https://www.messenger.com/t/257187708141828</a>  (Fb Messenger may not be available public usage until approved by Fb team)
 *   [![](https://i.hizliresim.com/d7LMqD.jpg)](https://www.messenger.com/t/257187708141828) <a>- Slack</a> [Click to add](https://slack.com/oauth/authorize?scope=bot&client_id=226301402436.268292940487&redirect_uri=https%3a%2f%2fslack.botframework.com%2fHome%2fauth&state=haveibeenpwned)
 *   [![](https://i.hizliresim.com/5GNqo5.jpg)](https://www.messenger.com/t/257187708141828) <a>Skype -</a> [https://join.skype.com/bot/78434275-b560-4ab1-bf8b-8df8361d6b59](https://join.skype.com/bot/78434275-b560-4ab1-bf8b-8df8361d6b59)
 *   [![](https://i.hizliresim.com/a1ngj2.jpg) - Telegram - https://telegram.me/HIBPwned_bot](https://telegram.me/HIBPwned_bot)<a></a>
