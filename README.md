@@ -3,7 +3,9 @@
 
 [Deploy Button]: https://azuredeploy.net/deploybutton.png
 [Deploy Node/SendAttachment]: https://azuredeploy.net
-Available Platforms:
+## Available Platforms:
+
+**IF you want to try the bot; please use Telegram, Slack or Skype for now. Bots on others channels may need to be confirmed by official team to usable by public**
 
 *   [![](https://i.hizliresim.com/bLv94Z.jpg)](https://www.messenger.com/t/257187708141828) <a>- Facebook Messenger -</a> <a>https://www.messenger.com/t/257187708141828</a>  (Fb Messenger may not be available public usage until approved by Fb team)
 *   [![](https://i.hizliresim.com/d7LMqD.jpg)](https://www.messenger.com/t/257187708141828) <a>- Slack</a> [Click to add](https://slack.com/oauth/authorize?scope=bot&client_id=226301402436.268292940487&redirect_uri=https%3a%2f%2fslack.botframework.com%2fHome%2fauth&state=haveibeenpwned)
