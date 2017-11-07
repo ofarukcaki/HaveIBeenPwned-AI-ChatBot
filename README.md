@@ -13,6 +13,8 @@ Available Platforms:
 *   [![](https://i.hizliresim.com/NOLG3g.jpg)](https://www.messenger.com/t/257187708141828) <a>- Cortana - Name: "Have I Been Pwned"</a>
 ( Cortana may not be available to public until Microsoft complete the approval process)
 
+### Upcoming
++ SMS search
 ---
 ### Main Features
 + Check email/username if it's pwned or not
