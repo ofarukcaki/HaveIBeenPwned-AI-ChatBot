@@ -50,11 +50,11 @@ Send `Password` to start password pwnage check process
 
 | Cortana | Slack |
 | ------- | ----- |
-|![Cortana](https://i.hizliresim.com/NOLOa5.gif)      |  ![Slack](https://i.hizliresim.com/nJbOpV.gif)|
+|![Cortana](https://raw.githubusercontent.com/ofarukcaki/HaveIBeenPwned-AI-ChatBot/master/assets/cortana.gif)      |  ![Slack](https://raw.githubusercontent.com/ofarukcaki/HaveIBeenPwned-AI-ChatBot/master/assets/slack.gif)|
 
 | Skype | Telegram | Fb Messenger |
 | ------- | ----- | ------------- |
-|![Skype](https://i.hizliresim.com/XEbPzD.gif)      |  ![Telegram](https://i.hizliresim.com/QpP24k.gif) | Fb Messsenger Demo |
+|![Skype](https://raw.githubusercontent.com/ofarukcaki/HaveIBeenPwned-AI-ChatBot/master/assets/skype.gif)      |  ![Telegram](https://raw.githubusercontent.com/ofarukcaki/HaveIBeenPwned-AI-ChatBot/master/assets/telegram.gif) | Fb Messsenger Demo |
 
 
 *Telegram button functions are not workıng properly for now
